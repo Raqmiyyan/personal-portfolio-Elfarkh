@@ -5,3 +5,24 @@ body{
 p{
     color: black;
 }
+
+div {
+    position: fixed;
+    top: 30%;
+    left: 18%;
+
+}
+
+samp{
+    background-color: blueviolet;
+    font-family: 'Road Rage', cursive;
+    font-size: 150px;
+}
+
+samp:hover{
+    background-color: crimson;
+}
+
+.tab {
+    margin-left: 0.3em
+   }
